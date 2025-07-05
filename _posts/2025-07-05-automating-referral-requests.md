@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Automate Referral Requests with Python"
-cover_image: /assets/automate_referral_requests.jpg
-tags: python, cli, automation, jobsearch
 date: 2025-07-05
 ---
 
